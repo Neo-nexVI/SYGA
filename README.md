@@ -1,1 +1,2 @@
-# SYGA
+# SYmbolic Grading Assessment (SYGA)
+SYGA is a system I developed for ranking things with symbols rather than numbers. Why? It's designed to quickly capture observational data without having to apply numbers to it. By using symbols with implied meaning you can quickly note a rank on anything at anytime
